@@ -1,2 +1,0 @@
-# button-redirect
-Begin app
